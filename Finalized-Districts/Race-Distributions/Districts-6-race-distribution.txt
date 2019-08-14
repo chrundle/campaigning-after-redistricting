@@ -1,0 +1,21 @@
+-------- Percentage of each Race across State --------
+ Percentage of Race 0:           0.784346
+ Percentage of Race 1:           0.138625
+---------------- District 0 ----------------
+ Population:                     12706
+ Percentage of Race 0:           0.840614
+ Deviation from Mean for Race 0: 0.0562682
+ Percentage of Race 1:           0.0953247
+ Deviation from Mean for Race 1: 0.0432998
+---------------- District 1 ----------------
+ Population:                     12494
+ Percentage of Race 0:           0.757984
+ Deviation from Mean for Race 0: 0.0263619
+ Percentage of Race 1:           0.162992
+ Deviation from Mean for Race 1: 0.0243672
+---------------- District 2 ----------------
+ Population:                     12642
+ Percentage of Race 0:           0.753847
+ Deviation from Mean for Race 0: 0.0304997
+ Percentage of Race 1:           0.158062
+ Deviation from Mean for Race 1: 0.0194371
